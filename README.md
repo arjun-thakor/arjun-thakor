@@ -1,8 +1,11 @@
-# Hi there 👋 I'm Arjun Thakor
+### Hi there
+# 👋 I'm Arjun Thakor
 
 Welcome to my GitHub! I’m a passionate developer focused on building useful tools and beautiful interfaces. I work with a range of technologies and enjoy contributing to open-source projects and learning something new every day.
 
-## 🚀 Tech Stack
+<br/>
+
+### 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -13,16 +16,19 @@ Welcome to my GitHub! I’m a passionate developer focused on building useful to
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🛠️ Projects
+<br/>
+
+### 🛠️ Projects
 
 - 🔧 **django-admin-antd** – A custom Django admin theme based on Ant Design.
 - 📦 **sports-logos** – An NPM package for official sports team logos by league.
 
-## 📫 Let's Connect
+<br/>
+
+### 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/arjunkumar-thakor](https://www.linkedin.com/in/arjunkumar-thakor/)
 - Personal site: [arjunthakor.com](https://arjunthakor.com/)
 
+<br/>
 Thanks for stopping by! ✨
-
----
