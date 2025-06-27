@@ -20,7 +20,7 @@ Welcome to my GitHub! I’m a passionate developer focused on building useful to
 |               | Status                                                                 | Description                                                   |
 |----------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------|
 | [django-admin-antd](https://github.com/django-themes/django-admin-antd)   | ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) | Custom Django admin theme built with Ant Design.             |
-| [sports-logos](https://github.com/arenastudio/league-logos)         | ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) | NPM package for official team logos across multiple leagues.  |
+| [sports-logos](https://github.com/arenastudio/league-logos)         | ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) ![npm](https://img.shields.io/npm/v/@arenastudio/league-logos?style=flat-square) | NPM package for official team logos across multiple leagues. <p>[@arenastudio/league-logos](https://www.npmjs.com/package/@arenastudio/league-logos)</p> |
 
 
 
