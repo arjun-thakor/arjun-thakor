@@ -3,7 +3,6 @@
 
 Welcome to my GitHub! I’m a passionate developer focused on building useful tools and beautiful interfaces. I work with a range of technologies and enjoy contributing to open-source projects and learning something new every day.
 
-<br/>
 
 ### 🚀 Tech Stack
 
@@ -16,14 +15,12 @@ Welcome to my GitHub! I’m a passionate developer focused on building useful to
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br/>
 
 ### 🛠️ Projects
 
 - 🔧 **django-admin-antd** – A custom Django admin theme based on Ant Design.
 - 📦 **sports-logos** – An NPM package for official sports team logos by league.
 
-<br/>
 
 ### 📫 Let's Connect
 
